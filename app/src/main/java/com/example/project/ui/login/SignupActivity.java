@@ -23,8 +23,6 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 import com.example.project.R;
-import com.example.project.ui.login.LoginViewModel;
-import com.example.project.ui.login.LoginViewModelFactory;
 
 public class SignupActivity extends AppCompatActivity {
     private LoginViewModel loginViewModel;
@@ -112,7 +110,6 @@ public class SignupActivity extends AppCompatActivity {
             }
         });
     }
-
     public void showtext(View v){
         Button Signup = findViewById(R.id.button3);
         final EditText usernameEditText = findViewById(R.id.username);

@@ -14,7 +14,7 @@
         android:layout_height="45dp"
         android:layout_marginTop="88dp"
         android:autofillHints="@string/email"
-        android:hint="@string/emailopt"
+        android:hint="@string/email_optional"
         android:inputType="textWebEmailAddress"
         android:singleLine="true"
         android:textStyle="bold"
@@ -55,7 +55,8 @@
         android:inputType="number"
         android:textStyle="bold"
         android:typeface="sans"
-        android:autofillHints="null" />
+        android:autofillHints="null"
+        tools:ignore="TextFields" />
 
     <EditText
         android:id="@+id/password"
