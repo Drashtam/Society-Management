@@ -13,8 +13,8 @@
         android:layout_width="315dp"
         android:layout_height="45dp"
         android:layout_marginTop="88dp"
-        android:autofillHints="@string/app_name"
-        android:hint="@string/email"
+        android:autofillHints="@string/email"
+        android:hint="@string/emailopt"
         android:inputType="textWebEmailAddress"
         android:singleLine="true"
         android:textStyle="bold"
@@ -40,6 +40,22 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="Autofill" />
+
+    <EditText
+        android:id="@+id/Phone"
+        android:layout_width="315dp"
+        android:layout_height="45dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.511"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.538"
+        android:hint="@string/phone"
+        android:inputType="number"
+        android:textStyle="bold"
+        android:typeface="sans"
+        android:autofillHints="null" />
 
     <EditText
         android:id="@+id/password"
@@ -71,10 +87,10 @@
         android:text="@string/sign_up_admin"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.07"
+        app:layout_constraintHorizontal_bias="0.072"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/password"
-        app:layout_constraintVertical_bias="0.257"
+        app:layout_constraintVertical_bias="0.726"
         tools:ignore="PrivateResource" />
 
     <ProgressBar
@@ -104,6 +120,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toEndOf="@+id/login"
+        android:onClick="showtext"
         app:layout_constraintTop_toTopOf="@+id/login"
         app:layout_constraintVertical_bias="0.0"
         tools:ignore="PrivateResource" />
