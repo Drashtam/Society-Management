@@ -110,20 +110,8 @@ public class SignupActivity extends AppCompatActivity {
             }
         });
     }
-    public void showtext(View v){
-        Button Signup = findViewById(R.id.button3);
-        final EditText usernameEditText = findViewById(R.id.username);
-        final EditText passwordEditText = findViewById(R.id.password);
-        Signup.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v){
-                loginViewModel.login(usernameEditText.getText().toString(),
-                    passwordEditText.getText().toString());
-            }
-        });
-    }
     private void updateUiWithUser(LoggedInUserView model) {
-        String welcome = getString(R.string.welcome) + model.getDisplayName();
+        String welcome = getString(R.string.welcome) + " " + model.getDisplayName();
         // TODO : initiate successful logged in experience
         Toast.makeText(getApplicationContext(), welcome, Toast.LENGTH_LONG).show();
     }

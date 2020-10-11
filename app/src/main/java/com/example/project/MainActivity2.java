@@ -2,7 +2,7 @@ package com.example.project;
 
 import android.content.Intent;
 import android.os.Bundle;
-
+import com.example.project.Welcome_page;
 import com.example.project.ui.login.LoginActivity;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
@@ -27,8 +27,8 @@ public class MainActivity2 extends AppCompatActivity {
         timer.schedule(new TimerTask() {
             @Override
             public void run() {
-                Intent intent = new Intent(MainActivity2.this, LoginActivity.class);
-                startActivity(intent);
+                startActivity(new Intent(MainActivity2.this,
+                        Welcome_page.class));
                 finish();
             }
         },3000);
