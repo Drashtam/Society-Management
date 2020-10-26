@@ -23,6 +23,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 import com.example.project.R;
+import com.example.project.Welcome_page;
 
 public class SignupActivity extends AppCompatActivity {
     private LoginViewModel loginViewModel;
@@ -35,6 +36,7 @@ public class SignupActivity extends AppCompatActivity {
         final EditText passwordEditText = findViewById(R.id.password);
         final Button loginButton = findViewById(R.id.login);
         final ProgressBar loadingProgressBar = findViewById(R.id.loading);
+        final Button button = findViewById(R.id.new_to_welcome);
         loginViewModel.getLoginFormState().observe(this, new Observer<LoginFormState>() {
             @Override
             public void onChanged(@Nullable LoginFormState loginFormState) {
@@ -48,6 +50,13 @@ public class SignupActivity extends AppCompatActivity {
                 if (loginFormState.getPasswordError() != null) {
                     passwordEditText.setError(getString(loginFormState.getPasswordError()));
                 }
+            }
+        });
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(SignupActivity.this, Welcome_page.class));
+                finish();
             }
         });
         loginViewModel.getLoginResult().observe(this, new Observer<LoginResult>() {

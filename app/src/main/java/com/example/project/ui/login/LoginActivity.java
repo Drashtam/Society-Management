@@ -3,6 +3,8 @@ import android.app.Activity;
 import androidx.lifecycle.Observer;
 
 import androidx.lifecycle.ViewModelProviders;
+
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.annotation.Nullable;
@@ -20,6 +22,8 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 import com.example.project.R;
+import com.example.project.Welcome_page;
+
 public class LoginActivity extends AppCompatActivity{
     private LoginViewModel loginViewModel;
     @Override
@@ -31,6 +35,7 @@ public class LoginActivity extends AppCompatActivity{
         final EditText passwordEditText = findViewById(R.id.password);
         final Button loginButton = findViewById(R.id.login);
         final ProgressBar loadingProgressBar = findViewById(R.id.loading);
+        final Button button = findViewById(R.id.login_to_welcome);
         loginViewModel.getLoginFormState().observe(this, new Observer<LoginFormState>() {
             @Override
             public void onChanged(@Nullable LoginFormState loginFormState) {
@@ -67,6 +72,13 @@ public class LoginActivity extends AppCompatActivity{
             }
         });
 
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(LoginActivity.this, Welcome_page.class));
+                finish();
+            }
+        });
         TextWatcher afterTextChangedListener = new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {

@@ -12,7 +12,7 @@ public class Welcome_page extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_welcome_page);
-        Button button = (Button) findViewById(R.id.wel);
+        Button button = findViewById(R.id.wel);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

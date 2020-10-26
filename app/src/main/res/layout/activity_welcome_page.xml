@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="108dp"
-        android:text="Welcome Back!"
+        android:text="Welcome!"
         android:textColor="@color/cardview_light_background"
         android:textSize="40sp"
         android:textStyle="bold"
@@ -24,19 +24,19 @@
 
     <Button
         android:id="@+id/wel"
-        android:layout_width="146dp"
-        android:layout_height="61dp"
-        android:layout_marginTop="228dp"
+        android:layout_width="140dp"
+        android:layout_height="45sp"
+        android:layout_marginTop="204dp"
+        android:background="@drawable/rectangle3"
         android:text="Login"
-        android:typeface="sans"
-        android:textStyle="bold"
-        android:background="@drawable/rectangle1"
         android:textColor="@color/cardview_light_background"
+        android:textStyle="bold"
+        android:typeface="sans"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:ignore="PrivateResource"/>
+        tools:ignore="PrivateResource" />
 
     <Button
         android:id="@+id/signup"
