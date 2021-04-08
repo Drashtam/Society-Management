@@ -13,20 +13,14 @@ public class Welcome_page extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_welcome_page);
         Button button = findViewById(R.id.wel);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(Welcome_page.this,LoginActivity.class));
-                finish();
-            }
+        button.setOnClickListener(v -> {
+            startActivity(new Intent(Welcome_page.this,LoginActivity.class));
+            finish();
         });
         Button button1 = (Button) findViewById(R.id.signup);
-        button1.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(Welcome_page.this, SignupActivity.class));
-                finish();
-            }
+        button1.setOnClickListener(v -> {
+            startActivity(new Intent(Welcome_page.this, SignupActivity.class));
+            finish();
         });
     }
 }
