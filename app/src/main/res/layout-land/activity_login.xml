@@ -2,49 +2,53 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/i2"
     tools:context=".ui.login.LoginActivity">
 
     <Button
-        android:id="@+id/login_to_welcome"
-        android:layout_width="15dp"
-        android:layout_height="24dp"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="24dp"
+        android:id="@+id/loginwelcome"
+        android:enabled="true"
+        android:layout_width="13dp"
+        android:layout_height="23dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="25dp"
         android:background="@drawable/back"
+
         app:layout_constraintEnd_toStartOf="@+id/textView2"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.064"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/textInputLayout4"
-        android:layout_width="361dp"
-        android:layout_height="74dp"
+        android:layout_width="315dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="40dp"
         android:textColorHint="@color/common_google_signin_btn_text_dark_focused"
-        app:helperTextTextAppearance="@color/cardview_light_background"
+        app:errorEnabled="true"
+        app:errorTextAppearance="@color/cardview_light_background"
+        app:errorTextColor="@color/cardview_light_background"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.293">
+        app:layout_constraintVertical_bias="0.173">
 
         <EditText
-            android:id="@+id/Username"
+            android:id="@+id/Phone2"
             android:layout_width="315dp"
             android:layout_height="45dp"
-            android:layout_marginStart="24dp"
-            android:layout_marginTop="140dp"
+            android:layout_marginTop="20dp"
             android:layout_marginEnd="24dp"
             android:autofillHints="@string/app_name"
             android:background="@drawable/rectangle2"
-            android:drawableStart="@drawable/ic_baseline_account_circle_24"
-            android:drawableLeft="@drawable/ic_baseline_account_circle_24"
-            android:hint="@string/username"
-            android:inputType="textPersonName"
+            android:drawableStart="@drawable/ic_baseline_phone_24"
+            android:drawableLeft="@drawable/ic_baseline_phone_24"
+            android:hint="Phone"
+            android:inputType="phone"
             android:singleLine="true"
             android:textStyle="bold"
             android:typeface="sans"
@@ -56,11 +60,15 @@
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/textInputLayout2"
-        android:layout_width="363dp"
-        android:layout_height="65dp"
+        android:layout_width="315dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="20dp"
         android:textColorHint="@color/common_google_signin_btn_text_dark_focused"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.503"
+        app:errorEnabled="true"
+        app:errorTextAppearance="@color/cardview_light_background"
+        app:errorTextColor="@color/cardview_light_background"
+        app:layout_constraintEnd_toEndOf="@+id/textInputLayout4"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout4"
         app:passwordToggleEnabled="true">
@@ -69,7 +77,6 @@
             android:id="@+id/password"
             android:layout_width="315dp"
             android:layout_height="45dp"
-            android:layout_marginStart="24dp"
             android:layout_marginTop="20dp"
             android:layout_marginEnd="24dp"
             android:autofillHints="@string/app_name"
@@ -77,8 +84,6 @@
             android:drawableStart="@drawable/ic_baseline_https_24"
             android:drawableLeft="@drawable/ic_baseline_https_24"
             android:hint="@string/password"
-            android:imeActionLabel="@string/action_sign_in_short"
-            android:imeOptions="actionDone"
             android:inputType="textPassword"
             android:singleLine="true"
             android:textStyle="bold"
@@ -86,39 +91,31 @@
     </com.google.android.material.textfield.TextInputLayout>
 
     <Button
-        android:id="@+id/login"
+        android:id="@+id/loginbtn"
         android:layout_width="140dp"
-        android:layout_height="44dp"
+        android:layout_height="45dp"
         android:layout_gravity="start"
-        android:autofillHints="@string/app_name"
         android:background="@drawable/rectangle3"
-        android:contentDescription="@string/sign_in_here"
-        android:enabled="false"
         android:text="@string/Sign_in"
-        android:textColor="@color/cardview_light_background"
+        android:textColor="#FFFFFF"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.499"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout2"
-        app:layout_constraintVertical_bias="0.276"
-        tools:ignore="PrivateResource"
-        tools:text="SIGN IN" />
+        app:layout_constraintVertical_bias="0.241" />
 
     <ProgressBar
         android:id="@+id/loading"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_marginTop="64dp"
         android:layout_marginBottom="64dp"
         android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.3"
-        tools:ignore="UnknownId" />
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
         android:id="@+id/textView2"
@@ -129,11 +126,9 @@
         android:textSize="30sp"
         android:textStyle="bold"
         android:typeface="sans"
-        app:layout_constraintBottom_toBottomOf="@+id/login_to_welcome"
+        app:layout_constraintBottom_toBottomOf="@+id/loginwelcome"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/login_to_welcome"
-        app:layout_constraintVertical_bias="0.421"
-        tools:ignore="HardcodedText" />
+        app:layout_constraintTop_toTopOf="@+id/loginwelcome" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

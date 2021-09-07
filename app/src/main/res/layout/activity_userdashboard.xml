@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schems.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cardview_light_background"
+    tools:context=".ui.login.userdashboard">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize">
+
+
+            <ImageView
+                android:id="@+id/usertolog"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:src="@drawable/ic_baseline_arrow_back_24" />
+
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="10dp"
+                android:src="@drawable/ic_baseline_search_24" />
+
+            <ImageView
+                android:id="@+id/back1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="1077dp"
+                android:padding="15dp"
+                android:src="@drawable/ic_baseline_arrow_back_24" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="55dp"
+                android:layout_marginEnd="55dp"
+                android:gravity="center"
+                android:text="Dashboard"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:typeface="sans" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="190dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/round_bk2">
+
+                <TextView
+                    android:layout_width="201dp"
+                    android:layout_height="wrap_content"
+                    android:padding="25dp"
+                    android:textColor="@android:color/black"
+                    android:text="User Information"
+                    android:textSize="23.5sp"
+                    android:typeface="sans" />
+
+                <Button
+                    android:id="@+id/gotouser"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:background="#00000000"
+                    android:padding="20dp"
+                    android:text="EXPAND INFO"
+                    android:textColor="@android:color/black" />
+
+
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="40dp"
+                android:layout_marginEnd="20dp"
+                android:src="@drawable/ic_baseline_account_circle_24" />
+
+        </RelativeLayout>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_margin="20dp"
+                android:background="@drawable/food_back">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="20dp"
+                    android:src="@drawable/ic_baseline_forum_24" />
+
+                <TextView
+                    android:layout_width="152dp"
+                    android:layout_height="116dp"
+                    android:layout_alignParentRight="true"
+                    android:padding="23.5dp"
+                    android:text="Issues Section"
+                    android:textColor="@color/cardview_light_background"
+                    android:textSize="30sp"
+                    android:typeface="sans" />
+
+                <Button
+                    android:id="@+id/issuessec"
+                    android:layout_width="wrap_content"
+                    android:layout_height="76dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginBottom="0dp"
+                    android:background="#00000000"
+                    android:padding="20dp"
+                    android:text="SEE INFO"
+                    android:textColor="@color/cardview_light_background" />
+
+            </RelativeLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="190dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/round_bk3"
+                android:layout_margin="20dp">
+
+                <TextView
+                    android:layout_width="202dp"
+                    android:layout_height="106dp"
+                    android:padding="25dp"
+                    android:text="Emergency Contacts"
+                    android:textColor="@color/cardview_light_background"
+                    android:textSize="23.5sp"
+                    android:textStyle="normal"
+                    android:typeface="sans" />
+
+                <Button
+                    android:id="@+id/emergency"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Contact Info"
+                    android:background="#00000000"
+                    android:padding="20dp"
+                    android:textColor="@color/cardview_light_background"
+                    android:layout_alignParentBottom="true"/>
+
+
+
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="30dp"
+                android:layout_marginEnd="20dp"
+                android:src="@drawable/ic_baseline_local_hospital_24" />
+
+        </RelativeLayout>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_margin="20dp"
+                android:background="@drawable/round_bk5">
+
+                <ImageView
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="20dp"
+                    android:src="@drawable/ic_baseline_location_city_24" />
+
+                <TextView
+                    android:layout_width="157dp"
+                    android:layout_height="117dp"
+                    android:layout_alignParentRight="true"
+                    android:padding="23.5dp"
+                    android:text="Society Details"
+                    android:textColor="@color/cardview_light_background"
+                    android:textSize="30sp"
+                    android:typeface="sans" />
+
+                <Button
+                    android:id="@+id/societydet"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="2dp"
+                    android:background="#00000000"
+                    android:padding="20dp"
+                    android:text="Expand Info"
+                    android:textColor="@color/cardview_light_background" />
+
+            </RelativeLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="145dp"
+            android:layout_margin="20dp"
+            android:background="@drawable/round_bk6">
+
+            <TextView
+                android:layout_width="202dp"
+                android:layout_height="106dp"
+                android:padding="25dp"
+                android:text="Society Meetups"
+                android:textColor="@android:color/black"
+                android:textSize="23.5sp"
+                android:textStyle="normal"
+                android:typeface="sans" />
+
+            <Button
+                android:id="@+id/s"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="6dp"
+                android:layout_marginBottom="2dp"
+                android:background="#00000000"
+                android:padding="20dp"
+                android:text="See Info"
+                android:textColor="@android:color/black" />
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/ic_baseline_group_24" />
+
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+
+</ScrollView>
+

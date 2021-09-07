@@ -2,104 +2,133 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:touchscreenBlocksFocus="true"
-    tools:context=".ui.login.LoginActivity"
-    tools:targetApi="lollipop">
-
-    <EditText
-        android:id="@+id/Username"
-        android:layout_width="315dp"
-        android:layout_height="45dp"
-        android:layout_marginStart="24dp"
-        android:layout_marginTop="142dp"
-        android:layout_marginEnd="24dp"
-        android:autofillHints="@string/app_name"
-        android:hint="@string/username"
-        android:inputType="textPersonName"
-        android:singleLine="true"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Username" />
-
-    <EditText
-        android:id="@+id/password"
-        android:layout_width="315dp"
-        android:layout_height="45dp"
-        android:layout_marginStart="24dp"
-        android:layout_marginTop="8dp"
-        android:layout_marginEnd="24dp"
-        android:autofillHints="@string/app_name"
-        android:hint="@string/password"
-        android:textFontWeight="@integer/google_play_services_version"
-        android:imeActionLabel="@string/action_sign_in_short"
-        android:imeOptions="actionDone"
-        android:inputType="textPassword"
-        android:singleLine="true"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/Username" />
+    android:background="@drawable/i2"
+    tools:context=".ui.login.LoginActivity">
 
     <Button
-        android:id="@+id/login"
-        android:layout_width="145dp"
-        android:layout_height="44dp"
+        android:id="@+id/loginwelcome"
+        android:enabled="true"
+        android:layout_width="13dp"
+        android:layout_height="23dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/back"
+
+        app:layout_constraintEnd_toStartOf="@+id/textView2"
+        app:layout_constraintHorizontal_bias="0.064"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayout4"
+        android:layout_width="315dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="40dp"
+        android:textColorHint="@color/common_google_signin_btn_text_dark_focused"
+        app:errorEnabled="true"
+        app:errorTextAppearance="@color/cardview_light_background"
+        app:errorTextColor="@color/cardview_light_background"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.279">
+
+        <EditText
+            android:id="@+id/Phone2"
+            android:layout_width="315dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="24dp"
+            android:autofillHints="@string/app_name"
+            android:background="@drawable/rectangle2"
+            android:drawableStart="@drawable/ic_baseline_phone_24"
+            android:drawableLeft="@drawable/ic_baseline_phone_24"
+            android:inputType="phone"
+            android:hint="Phone"
+            android:singleLine="true"
+            android:textStyle="bold"
+            android:typeface="sans"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayout2"
+        android:layout_width="315dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="20dp"
+        android:textColorHint="@color/common_google_signin_btn_text_dark_focused"
+        app:errorEnabled="true"
+        app:errorTextAppearance="@color/cardview_light_background"
+        app:errorTextColor="@color/cardview_light_background"
+        app:layout_constraintEnd_toEndOf="@+id/textInputLayout4"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textInputLayout4"
+        app:passwordToggleEnabled="true">
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="315dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="24dp"
+            android:autofillHints="@string/app_name"
+            android:background="@drawable/rectangle2"
+            android:drawableStart="@drawable/ic_baseline_https_24"
+            android:drawableLeft="@drawable/ic_baseline_https_24"
+            android:hint="@string/password"
+            android:inputType="textPassword"
+            android:singleLine="true"
+            android:textStyle="bold"
+            android:typeface="sans" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:id="@+id/loginbtn"
+        android:layout_width="140dp"
+        android:layout_height="45dp"
         android:layout_gravity="start"
-        android:layout_marginTop="16dp"
-        android:autofillHints="@string/app_name"
-        android:background="@color/cardview_shadow_start_color"
-        android:contentDescription="@string/sign_in_here"
-        android:enabled="false"
-        android:text="@+string/sign in"
-        android:textColor="@color/design_default_color_on_secondary"
+        android:background="@drawable/rectangle3"
+        android:text="@string/Sign_in"
+        android:textColor="#FFFFFF"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.502"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/password"
-        app:layout_constraintVertical_bias="0.244"
-        tools:ignore="PrivateResource"
-        tools:text="SIGN IN" />
+        app:layout_constraintTop_toBottomOf="@+id/textInputLayout2"
+        app:layout_constraintVertical_bias="0.241" />
 
     <ProgressBar
         android:id="@+id/loading"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_marginStart="32dp"
-        android:layout_marginTop="64dp"
-        android:layout_marginEnd="32dp"
         android:layout_marginBottom="64dp"
         android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/password"
-        app:layout_constraintStart_toStartOf="@+id/password"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.3"
-        tools:ignore="UnknownId" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="104dp"
-        android:layout_height="16dp"
-        android:layout_marginBottom="76dp"
-        android:background="@color/design_default_color_surface"
-        android:text="@string/Sign_Up_here"
-        android:textColor="@color/design_default_color_primary_dark"
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="79dp"
+        android:layout_height="43dp"
+        android:text="Login"
+        android:textColor="@color/design_default_color_on_primary"
+        android:textSize="30sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:typeface="sans"
+        app:layout_constraintBottom_toBottomOf="@+id/loginwelcome"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/login"
-        app:layout_constraintVertical_bias="0.285" />
+        app:layout_constraintTop_toTopOf="@+id/loginwelcome" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-

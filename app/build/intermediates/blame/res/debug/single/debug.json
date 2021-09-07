@@ -1,0 +1,862 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_userdashboard.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout\\activity_userdashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_headset_mic_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_headset_mic_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_item.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_code_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_code_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_https_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_https_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_favorite_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_favorite_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_activity_signup.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout-sw600dp\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_forum_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_forum_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bk2.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\round_bk2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_appback.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable-v24\\appback.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_favorite_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_favorite_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_format_list_bulleted_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_format_list_bulleted_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_round_person_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_round_person_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_signup.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout-land\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_login.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout-land\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_activity_welcome_page.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout-sw600dp\\activity_welcome_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_headset_mic_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_headset_mic_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_how_to_reg_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_how_to_reg_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_how_to_reg_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_how_to_reg_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food_back.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\food_back.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_format_list_bulleted_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_format_list_bulleted_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_add_circle_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_emetext.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout\\activity_emetext.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_i2.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\i2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_emecontact.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout\\activity_add_emecontact.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_forum_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_forum_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_damn.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\damn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_phone_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_phone_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_forum_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_forum_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_shopping_basket_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_shopping_basket_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_favorite_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_favorite_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v28_activity_login.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout-v28\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_format_list_bulleted_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_format_list_bulleted_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_societydetails.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout\\activity_societydetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_code_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_code_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_how_to_reg_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_how_to_reg_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_shopping_basket_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_shopping_basket_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_shopping_basket_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_shopping_basket_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_location_city_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_location_city_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_local_hospital_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_local_hospital_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_group_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_group_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_how_to_reg_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_how_to_reg_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_location_city_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_location_city_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_local_hospital_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_local_hospital_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_activity_login.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout-sw600dp\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_add_circle_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_add_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bk6.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\round_bk6.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_favorite_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_favorite_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_welcome_page.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout-land\\activity_welcome_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_shopping_basket_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_shopping_basket_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_phone_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_phone_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_round_person_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_round_person_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_activity_welcome_page.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout-v21\\activity_welcome_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_format_list_bulleted_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_format_list_bulleted_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_activity_otp.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout-v26\\activity_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome_page.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout\\activity_welcome_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_https_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_https_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_settings_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bk5.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\round_bk5.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_how_to_reg_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_how_to_reg_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_code_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_code_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_how_to_reg_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_how_to_reg_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_https_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_https_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_login.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable-v24\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_round_person_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_round_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle2.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\rectangle2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mobile_wallpaper2_by_maria_shanina.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\mobile_wallpaper2_by_maria_shanina.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_forum_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_forum_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_userinfo.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable-v24\\userinfo.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_welcome.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\welcome.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_forum_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_forum_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_component2.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\component2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_format_list_bulleted_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_format_list_bulleted_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color1.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\color1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_https_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_https_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_group_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_group_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle3.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\rectangle3.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_headset_mic_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_headset_mic_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_android.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\android.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_baseline_how_to_reg_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_baseline_how_to_reg_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_local_hospital_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_local_hospital_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_phone_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_phone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_shopping_basket_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_shopping_basket_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_location_city_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_location_city_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_location_city_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_location_city_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_location_city_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_location_city_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_headset_mic_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_headset_mic_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_code_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_code_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_categories_rent_car_icon.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\categories_rent_car_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_userinfo.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout\\activity_userinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_location_city_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_location_city_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_i21.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\i21.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_settings_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_male.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable-v24\\male.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_format_list_bulleted_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_format_list_bulleted_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_group_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_group_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_settings_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_round_person_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_round_person_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_otp.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout\\activity_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_activity_login.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout-v21\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_https_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_https_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_phone_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_phone_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_headset_mic_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_headset_mic_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_settings_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_damn.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable-v24\\damn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_round_person_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_round_person_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_code_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_code_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_format_list_bulleted_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_format_list_bulleted_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_phone_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_phone_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_https_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_https_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_https_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_https_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_activity_login.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout-v26\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_favorite_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_favorite_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_local_hospital_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_local_hospital_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_group_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_group_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_round_person_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_round_person_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\edittext.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mettings.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout\\activity_mettings.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup2.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout\\activity_signup2.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_favorite_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_favorite_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_crop.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\crop.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_forum_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_forum_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_categories_restaurant_icon.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\categories_restaurant_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_wallpaper.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable-v24\\wallpaper.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_shopping_basket_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_shopping_basket_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_userdashboard.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout-land\\activity_userdashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_group_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_group_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_forum_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_forum_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c5d6c0eae34ae8bb69533bc7872308ad.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\c5d6c0eae34ae8bb69533bc7872308ad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_local_hospital_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_local_hospital_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_local_hospital_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_local_hospital_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_local_hospital_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_local_hospital_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_round_person_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_round_person_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_headset_mic_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_headset_mic_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_favorite_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_favorite_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_settings_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_location_city_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_location_city_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_group_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_group_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_account_circle_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_group_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_group_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_categories_shop_icon.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\categories_shop_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_code_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_code_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_shopping_basket_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_shopping_basket_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_drawer.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\layout\\activity_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_headset_mic_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_headset_mic_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boxes.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\boxes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hong.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\hong.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_phone_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_phone_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hospital_image.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\hospital_image.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_code_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_code_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_phone_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_phone_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_settings_24.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bk3.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\CLG-Project\\app\\src\\main\\res\\drawable\\round_bk3.png"
+    }
+]
