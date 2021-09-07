@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1069955668194-vk55i8tcambbaks5rjr5lqqrujvn68t2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1069955668194</string>
+    <string name="google_api_key" translatable="false">AIzaSyD4Y6LbAWMXkXh4sjZkdn8QME3B8qLNewI</string>
+    <string name="google_app_id" translatable="false">1:1069955668194:android:484db5edce8590632ea6bb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD4Y6LbAWMXkXh4sjZkdn8QME3B8qLNewI</string>
+    <string name="google_storage_bucket" translatable="false">housing-system-database-e4a10.appspot.com</string>
+    <string name="project_id" translatable="false">housing-system-database-e4a10</string>
+</resources>
