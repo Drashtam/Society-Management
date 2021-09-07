@@ -11,10 +11,38 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".ui.login.mettings"
+            android:label="Society Mettings"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+
+        <activity
+            android:name=".ui.login.societydetails"
+            android:label="Society Details"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".ui.login.userinfo"
+            android:label="User Information"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".ui.login.emetext"
+            android:label="Emergency Conctacts"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".ui.login.Add_emecontact"
+            android:label="Issue Management"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".ui.login.drawer"
+            android:label="Drawer Dashboard"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".ui.login.userdashboard"
+            android:label="User Dashboard"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".ui.login.Otp"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
-            android:label="OTP" />
+            android:label="OTP"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".ui.login.LoginActivity"
             android:label="@string/title_activity_login"
@@ -24,7 +52,7 @@
             android:label="Sign Up"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
-            android:name=".Welcome_page"
+            android:name=".ui.login.Welcome_page"
             android:label="Welcome"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity

@@ -7,8 +7,8 @@
     tools:context=".ui.login.Otp">
 
     <LinearLayout
-        android:layout_width="412dp"
-        android:layout_height="60dp"
+        android:layout_width="357dp"
+        android:layout_height="72dp"
         android:gravity="center"
         android:orientation="horizontal"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -19,7 +19,7 @@
         <EditText
             android:id="@+id/otp_edit_box1"
             android:layout_width="40dp"
-            android:layout_height="45dp"
+            android:layout_height="50dp"
             android:gravity="center"
             android:imeOptions="actionNext"
             android:importantForAutofill="no"
@@ -31,7 +31,7 @@
         <EditText
             android:id="@+id/otp_edit_box2"
             android:layout_width="40dp"
-            android:layout_height="45dp"
+            android:layout_height="50dp"
             android:layout_marginStart="5dp"
             android:gravity="center"
             android:imeOptions="actionNext"
@@ -44,7 +44,7 @@
         <EditText
             android:id="@+id/otp_edit_box3"
             android:layout_width="40dp"
-            android:layout_height="45dp"
+            android:layout_height="50dp"
             android:layout_marginStart="5dp"
             android:gravity="center"
             android:imeOptions="actionNext"
@@ -58,7 +58,7 @@
         <EditText
             android:id="@+id/otp_edit_box4"
             android:layout_width="40dp"
-            android:layout_height="45dp"
+            android:layout_height="50dp"
             android:layout_marginStart="5dp"
             android:gravity="center"
             android:imeOptions="actionNext"
@@ -72,7 +72,7 @@
         <EditText
             android:id="@+id/otp_edit_box5"
             android:layout_width="40dp"
-            android:layout_height="45dp"
+            android:layout_height="50dp"
             android:layout_marginStart="5dp"
             android:gravity="center"
             android:imeOptions="actionNext"
@@ -86,7 +86,7 @@
         <EditText
             android:id="@+id/otp_edit_box6"
             android:layout_width="40dp"
-            android:layout_height="45dp"
+            android:layout_height="50dp"
             android:layout_marginStart="5dp"
             android:gravity="center"
             android:imeOptions="actionDone"
