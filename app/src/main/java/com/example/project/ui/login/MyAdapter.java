@@ -1,5 +1,6 @@
 package com.example.project.ui.login;
 
+// This file is of no use
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
