@@ -153,14 +153,6 @@ public class LoginActivity extends AppCompatActivity{
             return false;
         });
 
-        /*loginButton.setOnClickListener(v -> {
-            loadingProgressBar.setVisibility(View.VISIBLE);
-            loginViewModel.login(usernameEditText.getText().toString(),
-                    passwordEditText.getText().toString());
-        });
-
-         */
-
 
     }
 
