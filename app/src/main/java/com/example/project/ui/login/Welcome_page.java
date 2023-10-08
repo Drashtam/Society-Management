@@ -10,12 +10,14 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.example.project.R;
 
 public class Welcome_page extends AppCompatActivity {
+    Button button1;
+    TextView tt;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_welcome_page);
-        Button button1 = (Button) findViewById(R.id.wel);
-        TextView tt = findViewById(R.id.tosignup);
+        button1 = (Button) findViewById(R.id.wel);
+        tt = findViewById(R.id.tosignup);
         button1.setOnClickListener(v -> {
             startActivity(new Intent(Welcome_page.this, LoginActivity.class));
             finish();
